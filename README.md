@@ -1,6 +1,6 @@
 # AstarAlgo
-===
-Implement of Astar algorithms
+
+Implement of Astar algorithms to solve 4*3 slide puzzle.
 
 ## Description
 Astar is the algorithm to solve shortest route problem. This algorithm choose the root that seems close to the goal. Compared to Dijkstra algorithm, it can find the path to the goal fast. 
